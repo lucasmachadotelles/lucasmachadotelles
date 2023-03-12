@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Eu+sou+o+Lucas,)](https://github.com/lucasmachadotelles)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Analista+de+Testes+e+QA+!+)](https://github.com/lucasmachadotelles)
 
-
 <div align="center">
   <a href="https://github.com/lucasmachadotelles">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmachadotelles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
