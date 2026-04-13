@@ -28,21 +28,12 @@
                                         
   * RestAssured 
   * Gherkin
-  * TDD
   * BDD
-  * Devops
   * Scrum
   * Kanban
-  * Gerrit
-  * Comandos SQL
   
 ## Certificação
   * SFPC
-  
-   
-## Banco de dados que domino
-  
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
    
 ## Ferramentas que conheço e utilizo  
