@@ -63,9 +63,4 @@
   Me dedico em tudo que faço, seja de forma individual ou em colaboração com a equipe.
   Enfim esse sou eu...
   
-## Contatos e redes sociais: 
-<div> 
-  <a href="https://www.linkedin.com/in/lucasmachadoqa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasmachadorjdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
       
